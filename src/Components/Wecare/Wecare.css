@@ -1,0 +1,65 @@
+.new-box {
+    text-align: center;
+    background-color: #fff;
+    height: 900px;
+}
+.new-box > h2 {
+    margin: 50px ;
+    padding: 50px 0;
+    font-size: 30px;
+}
+.main-1 {
+    margin-left: 250px;
+    display: flex;
+    
+}
+.detail-1 {
+    height: 250px;
+    width: 250px;
+    
+}
+.detail-1 p {
+    font-size: 18px;
+    
+}
+.cards {
+    padding-left: 210px;
+    padding-right: 100px;
+    margin-top: 100px;
+    display: flex;
+}
+.card {
+    border: 1px solid lightblue;
+    padding: 0 2vh;
+    width: 300px;
+    margin: 0 15px;
+    
+}
+.name {
+    display: flex;
+}
+.details-1 > p {
+    font-size: 13px !important;
+}
+.name-1 {
+    font-size: 15px !important;
+    width: 100px;
+}
+.photo {
+    margin-top: 20px ;
+    margin-left: 140px;
+}
+.photo > img {
+    text-align: center;
+    justify-content: center;
+}
+.btnn {
+    padding: 10px 10px;
+    background-color: #01b46c;
+    color: #fff;
+    border: none;
+    border-radius: 0.2rem;
+}
+input[type=text] {
+    padding: 8px 10px;
+}

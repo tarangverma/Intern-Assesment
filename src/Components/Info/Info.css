@@ -1,0 +1,155 @@
+.info {
+    
+    font-size: 18px;
+line-height: 30px;
+letter-spacing: .03em;
+       
+}
+.gap {
+   
+    height: 10vh;
+}
+.pad {
+    
+    padding: 0px 90px;
+}
+
+.row {
+    width: 1359px;
+    height: max-content;
+    display: flex;
+      
+    position: relative;
+}
+.heading {
+    display: inline-block;
+    
+    width: 980px;
+    height: max-content;
+}
+.sub-h {
+    
+    
+    height: max-content;
+    width: 980px;
+    background-color: #fff;
+}
+
+.right-div {
+    
+    justify-content: center; 
+    height: max-content;
+    width: 354px;
+    margin-left: 30px; 
+    padding: 20px 20px;   
+    line-height: 38px;
+}
+.info-1{
+   padding: 0 15px;
+   background-color: #fff;
+}
+.Black-l {
+    color: black;
+    text-decoration: none;
+}
+.green-l {
+    text-decoration: none;
+    color: #00d084;
+}
+.box {
+    border: 1px solid wheat;
+    width: 50%;
+    height: max-content;
+    margin: 0 20%;
+    display: flex;
+    line-height: 0 !important;
+    display: inline-block;
+}
+.head {
+    
+    display: flex;
+    margin: 10px 10px;
+}
+.head-txt {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 0;
+    margin-left: 10px;
+    font-size: 13px;
+
+}
+.sec-txt {
+    margin: 0;
+    padding: 0;   
+}
+.avatar{
+    margin: 0;
+    padding: 0;
+}
+
+.avatar > img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.head-btn {
+    position: relative;
+    left: 250px;
+  
+  
+}
+
+.btn {
+   height: 30px;
+   width: 72px;
+   font-size: 10px;
+   font-weight: 700;
+   background-color: #0074cc;
+   border: none;
+   border-radius: 0.2rem;
+   color: #fff;
+}
+.pic > img {
+    height: 500px;
+    width: 475px;
+}
+.blue-l {
+    color: #0074cc;
+    text-decoration: none;
+    font-size: 15px;
+}
+.blue-l > p {
+    margin-left: 10px;
+}
+
+.border {
+    border-bottom: 1px solid black;
+}
+.icon {
+    padding: 0 6px;
+}
+.icons {
+    margin-left: 10px ;
+}
+.icons > p{
+    margin-left: 8px;
+    font-size: 13px;
+}
+.comment {
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+.yellow-l {
+    color: orange;
+    text-decoration: none;
+}
+.orange > b{
+    color: orange;
+}
+
+.green-l  {
+    color: #00d084;
+    text-decoration: none;
+}

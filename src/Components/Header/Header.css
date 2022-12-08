@@ -1,0 +1,46 @@
+.header {
+    background-color: #fff;
+    height: 10vh;
+    text-align: left;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: end;
+    background-color: #fff;
+    position: relative;
+}
+
+.content > img {
+    position: relative;
+    left: -300px;
+    background-color: #fff;
+
+}
+.links {
+    background-color: #fff;
+    position: relative;
+    left: 36vh;
+}
+.link-1 {
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: .03em;
+    color: black;
+    padding: 0 12px;
+    text-decoration: none !important;
+    background-color: #fff;
+}
+
+label {
+    text-decoration: none;
+    background-color: #fff;
+}
+
+label > img {
+    padding: 0 12px;
+    height: 17px;
+    width: 17px;
+    background-color: #fff;
+}
