@@ -34,7 +34,7 @@ function Wecare() {
      <div className='cards'>
         <div className='card'>
             <div className='name'>
-            <div className='name-1'><h2>Subscribe toMailer</h2></div>
+            <div className='name-1'><h2>Subscribe to Mailer</h2></div>
                 <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/05/mailer.svg?compress=true&quality=90&w=128&dpr=1.3'
                 alt='mm' /></div>
             </div>
@@ -43,36 +43,36 @@ function Wecare() {
             </div>
             <div className='input'>
               <input type="text" placeholder='Email'></input>
-              <button className='btnn'>Subscribe</button>
+              <button className='btnn-1'>Subscribe</button>
             </div>
         </div>   
         <div className='card'> 
             <div className='name'>
-            <div className='name-1'><h2>Subscribe toMailer</h2></div>
-                <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/05/mailer.svg?compress=true&quality=90&w=128&dpr=1.3'
+            <div className='name-1'><h2>Collaborate with us for Blog/Content</h2></div>
+                <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/10/blog.png?compress=true&quality=90&w=128&dpr=1.3'
                 alt='mm' /></div>
             </div>
             <div className='details-1'>
-            <p>Stay updated with all the excitement that Andamans has to offer</p>
+            <p>If you have a flair for writing, write for us and get featured.</p>
             </div>
             <div>
               
-              <button className='btnn'>Subscribe</button>
+              <button className='btnn-2'>FIND IT HOW</button>
             </div>
         </div> 
         <div className='card'>   
             <div className='name'>
-                <div className='name-1'><h2>Subscribe toMailer</h2></div>
-                <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/05/mailer.svg?compress=true&quality=90&w=128&dpr=1.3'
+                <div className='name-1'><h2>Be your own tour guide.</h2></div>
+                <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/05/tour.svg?compress=true&quality=90&w=128&dpr=1.3'
                 alt='mm' /></div>
                 
             </div>
             <div className='details-1'> 
-            <p>Stay updated with all the excitement that Andamans has to offer</p>
+            <p>Get lost or never. You decide. Download our handy tour guides to plan your trip.</p>
             </div>
             <div>
             
-              <button className='btnn'>Subscribe</button>
+              <button className='btnn-3'>DOWNLOAD</button>
             </div>
         </div>
      </div>

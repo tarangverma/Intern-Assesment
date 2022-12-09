@@ -23,8 +23,8 @@
     
 }
 .cards {
-    padding-left: 210px;
-    padding-right: 100px;
+    padding-left: 235px;
+    
     margin-top: 100px;
     display: flex;
 }
@@ -32,28 +32,38 @@
     border: 1px solid lightblue;
     padding: 0 2vh;
     width: 300px;
-    margin: 0 15px;
+    height: 180px;
+    margin: 0 12px;
+    text-align: left;
     
 }
 .name {
     display: flex;
+    flex-direction: center;
 }
 .details-1 > p {
+
     font-size: 13px !important;
+    line-height: 1pc !important;
+    width: 280px;
 }
 .name-1 {
-    font-size: 15px !important;
-    width: 100px;
+    font-size: 10px !important;
+    height: 50px;
+    width: 140px;
+    line-height: 1.5pc;
+    font-weight: 600;
 }
 .photo {
-    margin-top: 20px ;
-    margin-left: 140px;
+    margin-top: 10px ;
+    margin-left: 100px;
 }
 .photo > img {
-    text-align: center;
-    justify-content: center;
+    text-align: left;
+    justify-content: left;
 }
-.btnn {
+.btnn-1 {
+    margin-left: 20px;
     padding: 10px 10px;
     background-color: #01b46c;
     color: #fff;
@@ -61,5 +71,21 @@
     border-radius: 0.2rem;
 }
 input[type=text] {
-    padding: 8px 10px;
+    padding: 8px 48px 8px 10px  ;
+}
+.btnn-2 {
+    float: right;
+    padding: 5px 5px;
+    background-color: #01b46c;
+    color: #fff;
+    border: none;
+    border-radius: 0.2rem;
+}
+.btnn-3 {
+    float: right;
+    padding: 5px 5px;
+    background-color: #01b46c;
+    color: #fff;
+    border: none;
+    border-radius: 0.2rem;
 }
