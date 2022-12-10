@@ -10,6 +10,7 @@ import SaveAltIcon from '@mui/icons-material/SaveAlt';
 import BookmarkIcon from '@mui/icons-material/Bookmark';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import Wecare from '../Wecare/Wecare';
+import Whychooseus from '../Whychooseus/Whychooseus';
 
 function Info() {
     return (
@@ -262,6 +263,7 @@ function Info() {
                 <div className=''></div>
             </div>
             <Wecare />
+            <Whychooseus />
         </section>
     )
 }
