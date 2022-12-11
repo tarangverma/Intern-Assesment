@@ -11,6 +11,7 @@ import BookmarkIcon from '@mui/icons-material/Bookmark';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import Wecare from '../Wecare/Wecare';
 import Whychooseus from '../Whychooseus/Whychooseus';
+import Feedback from '../Feedback/Feedback';
 
 function Info() {
     return (
@@ -264,6 +265,7 @@ function Info() {
             </div>
             <Wecare />
             <Whychooseus />
+            <Feedback />
         </section>
     )
 }

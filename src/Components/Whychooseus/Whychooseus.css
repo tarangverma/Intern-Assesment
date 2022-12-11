@@ -11,20 +11,24 @@
 .images {
     height: 250px;
     width: 250px;
-    margin: 30px 50px;
+    margin: 30px 40px;
 }
 .image > img {
     height: 80px;
-    width: 90px;
+    width: 95px;
 }
-.size2 {
+.size2 > p{
+    margin: 0 10%;
+    justify-content: center;
+    width: 200px;
     font-size: 15px;
     font-weight: 200;
     line-height: 1.1rem;
 }
-.size1 {
+.size1 > h1 {
+    margin: 50px 0 0 0;
     font-size: 20px;
-    position: fixed;
+    position: relative;
     font-weight: 600;
     font-family: roboto , sans-serif;
     line-height: 1.2rem;
