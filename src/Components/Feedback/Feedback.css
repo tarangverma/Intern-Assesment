@@ -4,7 +4,7 @@
 }
 
 .f-1 {
-    margin: 50px 0;
+    
     height: max-content;
     text-align: center;
     font-size: 30px;
@@ -20,15 +20,38 @@
     color: lightcoral;
     
 }
+.slideshowSlider {
+    width: 99.8%;
+    max-height: 401px;
+    animation: ease-in;
+
+}
 
 .slideshow {
     margin: 0 auto;
     overflow: hidden;
-    max-width: 500px;   
+    max-width: 900px;
+      
 }
 
 .slide {
+    display: inline-block;
     height: 400px;
     width: 100%;
-    border-radius: 40px;
+    
+}
+.people{
+    margin-right: 50px;
+    text-align: right;
+}
+
+.Imgg > img {
+    margin-right: 50%;
+    float: right;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.paragraph {
+   
 }

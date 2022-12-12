@@ -213,7 +213,7 @@ function Info() {
                             <p><span>Shop some lovely souvenirs for your loved ones back home at Seven Heaven, this lifestyle store is a shoppers paradise.
                                 Handpicked, designer clothing and jewelry make for perfect gifts.</span></p>
                             <a href='#' className='green-l'><h2>5. Elephant Beach</h2></a>
-                            <img src="https://ocean.go2andaman.com/wp-content/uploads/2021/05/Anthropology-museum_0001_DSC_8450.jpg?compress=true&quality=90&w=900&dpr=1.3"
+                            <img src="https://ocean.go2andaman.com/wp-content/uploads/2021/05/go2andaman_havelock_6947.jpg?compress=true&quality=90&w=1000&dpr=1.3"
                                 alt='mm' height="700px" width="950px" />
                             <p><span>This place is a shallow water haven for snorkelers.
                                 All thanks to an impressive number of Scuba divers who have educated the locals on the importance of reef conservation,
