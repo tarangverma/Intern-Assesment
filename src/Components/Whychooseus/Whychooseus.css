@@ -3,6 +3,7 @@
     font-size: 30px;
     font-weight: 600;
     background-color: #fff;
+    
 }
 .real {
     display: flex;
@@ -17,13 +18,16 @@
     height: 80px;
     width: 95px;
 }
+.size2{
+    line-height: 1.4rem;
+}
 .size2 > p{
-    margin: 0 10%;
+    margin: 20px 10%;
     justify-content: center;
     width: 200px;
     font-size: 15px;
     font-weight: 200;
-    line-height: 1.1rem;
+    
 }
 .size1 > h1 {
     margin: 50px 0 0 0;

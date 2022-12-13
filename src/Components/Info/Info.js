@@ -12,6 +12,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import Wecare from '../Wecare/Wecare';
 import Whychooseus from '../Whychooseus/Whychooseus';
 import Feedback from '../Feedback/Feedback';
+import Footer from '../Footer/Footer';
 
 function Info() {
     return (
@@ -266,6 +267,7 @@ function Info() {
             <Wecare />
             <Whychooseus />
             <Feedback />
+            <Footer />
         </section>
     )
 }

@@ -52,7 +52,7 @@ function Wecare() {
                 <div className='photo'><img src='https://ocean.go2andaman.com/wp-content/uploads/2020/10/blog.png?compress=true&quality=90&w=128&dpr=1.3'
                 alt='mm' /></div>
             </div>
-            <div className='details-1'>
+            <div className='details-12'>
             <p>If you have a flair for writing, write for us and get featured.</p>
             </div>
             <div>

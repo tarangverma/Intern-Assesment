@@ -14,7 +14,7 @@
     color: tomato;
 }
 .f-2 {
-    margin: 50 0;
+    margin: 50px 0;
     height: 50px;
     text-align: center;
     color: lightcoral;
@@ -48,8 +48,8 @@
 .Imgg > img {
     margin-right: 50%;
     float: right;
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
     border-radius: 50%;
 }
 .paragraph {
